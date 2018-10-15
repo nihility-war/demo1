@@ -1,0 +1,23 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihility-war/demo1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihility-war/demo1/issues"
+  },
+  "homepage": "https://github.com/nihility-war/demo1#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^1.12.1"
+  }
+}
